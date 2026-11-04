@@ -1,0 +1,14 @@
+[project]
+name = "dsc190-github-actions"
+version = "0.1.0"
+description = "DSC 190 Assignment 05: GitHub Actions and pre-commit hooks"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "numpy>=2.5.4",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.17.3",
+]
