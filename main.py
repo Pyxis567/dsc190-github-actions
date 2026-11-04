@@ -1,3 +1,6 @@
+x = 1 + 2
+
+
 def main():
     print("Hello from dsc190-github-actions!")
 
